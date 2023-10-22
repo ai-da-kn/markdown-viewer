@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name"            : "Markdown Viewer",
-  "version"         : "5.2",
+  "version"         : "5.2.1",
   "description"     : "Markdown Viewer",
 
   "homepage_url": "https://github.com/simov/markdown-viewer",
